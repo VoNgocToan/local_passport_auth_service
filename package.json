@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^3.0.2",
+    "body-parser": "^2.2.0",
     "ejs": "^3.1.10",
     "express": "^5.1.0",
     "express-session": "^1.18.2",
@@ -17,5 +18,13 @@
     "passport": "^0.7.0",
     "passport-local": "^1.0.0"
   },
-  "description": ""
+  "description": "b. register",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoNgocToan/local_passport_auth_service.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VoNgocToan/local_passport_auth_service/issues"
+  },
+  "homepage": "https://github.com/VoNgocToan/local_passport_auth_service#readme"
 }
