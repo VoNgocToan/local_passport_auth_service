@@ -3,11 +3,10 @@
 ## Test với Postman
 
 b. register
-
 ![register](./public/img/cau3.1.png)
 
 Check in database
-![profile](./public/img/3.4.png)
+![register](./public/img/3.4.png)
 
 
 c. login
